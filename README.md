@@ -34,12 +34,70 @@
 - Python (Basics)
 
 - 🔭 I’m currently working on improving my skills as a mobile application developer. 
-<hr>
- 
-<h2> Contact with me on </h2>
 
-<!-- <h3>Where to find me</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github2" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
+<hr>
+
+<h2> Samples from my projects from A to Z </h2>
+
+### Food Order App
+This application is managing people who need to order and eat fast.
+* 1- User Interface by me (ui-ux).
+* 2- Order food a home online.
+* 3- Supports to choose your order in (restaurant - delivery- takeaway).
+
+* I made this app using:
+* Firebase (Authentication with Facebook - Google, Firestore 'DB',FireStorage).
+* sqflit Database .
+* Getx as State Management.
+* Animation Hero.
+* Design pattern MVVM.
+* Responsive package to make app Respons all devices.
+<hr>
+
+### Meal App
+This application is helps people to show menu and choose with food filters:
+* 1- View food and make a filter to choose from food according to your needs
+* 2- Add food to your Wishlist
+
+* I made this app using:
+* SharedPrefrance (Database to storage data).
+* Dark mood(light-Dark).
+* sqflit Database.
+* Api by using http.
+
+
+<hr>
+
+### E-commerce App
+This app is helps people to order anything about clothes and more .
+* I made this app using:
+* Firebase (Authentication, Firebase Cloud 'DB').
+* Getx as State Management.
+
+
+<hr>
+
+### Delevery App ui-Clone
+
+This is a clone of Food Delevery app UI.
+* I made this app using:
+* Flutter material package.
+* clip_shadow package to make ui good.
+
+ 
+<hr>
+
+
+### Al moshaf App
+
+* I made this app using:
+* Flutter material package.
+* Sqflit Database.
+* Caling Api data to App
+
+
+<hr>
+
 
 - E-Mail : ahmedtota5062@gmail.com
 - Phone : +201095656171
