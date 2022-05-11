@@ -40,7 +40,7 @@
 <h2> Samples from my projects from A to Z </h2>
 
 ### Food Order App
-This application is managing people who need to order and eat fast.
+This application is easy people who need to order and eat fast.
 * 1- User Interface by me (ui-ux).
 * 2- Order food a home online.
 * 3- Supports to choose your order in (restaurant - delivery- takeaway).
@@ -60,10 +60,9 @@ This application is helps people to show menu and choose with food filters:
 * 2- Add food to your Wishlist
 
 * I made this app using:
+* Flutter material package.
 * SharedPrefrance (Database to storage data).
-* Dark mood(light-Dark).
 * sqflit Database.
-* Api by using http.
 
 
 <hr>
@@ -77,23 +76,13 @@ This app is helps people to order anything about clothes and more .
 
 <hr>
 
-### Delevery App ui-Clone
-
-This is a clone of Food Delevery app UI.
-* I made this app using:
-* Flutter material package.
-* clip_shadow package to make ui good.
-
- 
-<hr>
-
 
 ### Al moshaf App
 
 * I made this app using:
 * Flutter material package.
 * Sqflit Database.
-* Caling Api data to App
+* Calling Api's for data when app needed 
 
 
 <hr>
