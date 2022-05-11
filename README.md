@@ -10,7 +10,7 @@
 - Use features Sqflite ( Offline Database ) .
 - Good knowledge with Restful APIS .
 - Good knowledge of Shared Preference Database .
-
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
