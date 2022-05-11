@@ -4,20 +4,24 @@
 ![3c02c07c231fd281808c734e26a6aacb](https://user-images.githubusercontent.com/67846468/167818027-44e0522e-81a1-4c26-8f3d-c20413f03f31.jpg)
 <hr>
 
-<h2> summary of my work experience </h2>
+<h2> summary of me </h2>
+<hr>
 
-- Flutter developer Freelancer .                                        
+- ⚡ I am currently studying computer science in HTI ( Higher Technological Institute ) and also I have a passion for self-development and now trying to develop my skills more as a mobile application developer ⚡.
+
+- Flutter developer  .                                        
 - I can use professionally with State Management.                              
 - Good knowledge of firebase cloud database ( Online Database )                               
 - Use features Sqflite ( Offline Database ) .
 - Good knowledge with Restful APIS .
-- Good knowledge of Shared Preference Database .
+- Use Shared Preference that use to ( Local Database ) .
+
+ 
 <hr>
 
-<h2> Technical Skills </h2>
- 
+<h2> about skills </h2>
+
 - Object Oriented Programming ( OOP )
-- Problem Solving
 - Flutter
 - Dart
 - Firebase Database
@@ -25,15 +29,10 @@
 - REST APIS 
 - Shared Preference Database
 - Sqflite
-- Localization
 - Animation
 - State Management ( Getx )
-- State Management ( Provider )
 - Java (Basics)
-- PHP (Basics)
-- Python (Basics)
-
-- ⚡ I am currently studying computer science in HTI ( Higher Technological Institute ) and also I have a passion for self-development and now trying to develop my skills as a mobile application developer ⚡. 
+ 
 
 <hr>
 
