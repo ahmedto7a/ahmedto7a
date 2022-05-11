@@ -1,16 +1,48 @@
-<h1 align="center">Hi,I'm Ahmed AbdElfatah 👋</h1>
+<h1 align="center">Hi,I'm Ahmed AbdElfatah 👋:heart: </h1>
 <h3 align="center">junior flutter developer</h3>
 
 ![3c02c07c231fd281808c734e26a6aacb](https://user-images.githubusercontent.com/67846468/167818027-44e0522e-81a1-4c26-8f3d-c20413f03f31.jpg)
+<hr>
 
-<h3 align="left">Summary of my work experience:</h3>
-- Flutter developer Freelancer .
-- I can use professionally with State Management.
-- Good knowledge of firebase cloud database ( Online Database ) .
+<h2> summary of my work experience </h2>
+
+- Flutter developer Freelancer .                                        
+- I can use professionally with State Management.                              
+- Good knowledge of firebase cloud database ( Online Database )                               
 - Use features Sqflite ( Offline Database ) .
 - Good knowledge with Restful APIS .
 - Good knowledge of Shared Preference Database .
 <hr>
+
+<h2> Technical Skills </h2>
+ 
+- Object Oriented Programming ( OOP )
+- Problem Solving
+- Flutter
+- Dart
+- Firebase Database
+- Firebase Authentication
+- REST APIS 
+- Shared Preference Database
+- Sqflite
+- Localization
+- Animation
+- State Management ( Getx )
+- State Management ( Provider )
+- Java (Basics)
+- PHP (Basics)
+- Python (Basics)
+
+- 🔭 I’m currently working on improving my skills as a mobile application developer. 
+<hr>
+ 
+<h2> Contact with me on </h2>
+
+<!-- <h3>Where to find me</h3>
+<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github2" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
+
+- E-Mail : ahmedtota5062@gmail.com
+- Phone : +201095656171
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
