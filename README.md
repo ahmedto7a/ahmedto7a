@@ -33,7 +33,7 @@
 - PHP (Basics)
 - Python (Basics)
 
-- 🔭 I’m currently working on improving my skills as a mobile application developer. 
+- ⚡ I am currently studying computer science in HTI ( Higher Technological Institute ) and also I have a passion for self-development and now trying to develop my skills as a mobile application developer ⚡. 
 
 <hr>
 
