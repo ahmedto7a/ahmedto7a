@@ -3,6 +3,15 @@
 
 ![3c02c07c231fd281808c734e26a6aacb](https://user-images.githubusercontent.com/67846468/167818027-44e0522e-81a1-4c26-8f3d-c20413f03f31.jpg)
 
+<h3 align="left">Summary of my work experience:</h3>
+- Flutter developer Freelancer .
+- I can use professionally with State Management.
+- Good knowledge of firebase cloud database ( Online Database ) .
+- Use features Sqflite ( Offline Database ) .
+- Good knowledge with Restful APIS .
+- Good knowledge of Shared Preference Database .
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmedto7aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedto7aa" height="30" width="40" /></a>
