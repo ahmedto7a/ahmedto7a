@@ -81,7 +81,7 @@ This app is helps people to order anything about clothes and more .
 * I made this app using:
 * Flutter material package.
 * Sqflit Database.
-* Calling Api's for data when app needed 
+* Calling Api's for data  
 
 
 <hr>
